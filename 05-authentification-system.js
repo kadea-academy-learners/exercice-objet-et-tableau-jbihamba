@@ -21,7 +21,7 @@
 const baseDeDonnees = [];
 
 function signUp(nom, email, password, confirmPassword) {
-	
+	 
 }
 
 function login() {
