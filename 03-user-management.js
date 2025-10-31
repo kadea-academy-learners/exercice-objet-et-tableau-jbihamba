@@ -36,6 +36,14 @@ const users =[
 	age: 28, 
 	estAdmin: true 
 
+	},
+
+	{ 
+
+	nom: "Charle", 
+	age: 28, 
+	estAdmin: false
+
 	}
 
 ];
